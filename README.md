@@ -1,17 +1,17 @@
-[![MasterHead]([https://cdn.educba.com/academy/wp-content/uploads/2021/06/Frontend-Challenges.jpg](https://www.123rf.com/photo_109041141_picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-flat-style.html))]
+[![MasterHead](https://www.123rf.com/photo_109041141_picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-flat-style.html)]
 <h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrupeshk&label=Profile%20views&color=0e75b6&style=flat" alt="hrupeshk" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing , Data Analytics, React**
+- 🌱 I’m currently learning **Cloud Computing , Django REST, FastApi**
 
-- 💬 Ask me about **C++,JS,MySQL, PHP**
+- 💬 Ask me about **C++,JS,MySQL,Django,MongoDB,Pymongo, PHP**
 
 - 📫 How to reach me **rupeshbrahampur@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny 😂**
+- ⚡ Fun fact ** I'm not Funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
