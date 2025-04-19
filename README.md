@@ -1,4 +1,4 @@
-[![MasterHead](https://www.123rf.com/photo_109041141_picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-flat-style.html)]
+
 <h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
